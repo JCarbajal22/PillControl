@@ -8,15 +8,15 @@ PillControl es una solución digital diseñada para simplificar la gestión y se
 
 -Autores
 
-- Ccorimanya Laulate Daniel Alexis (U202224115)
-- Acosta Elera Abraam Bernabe (U202219199)
 - Chozo Montalvan Yazmin Rocio (U20221B313)
-- Templadera Panoca Gerard Zair (U202214407)
 - Carbajal Pozzo Joaquin Alonso (U202121881)
 - Santillan Taboada Eduardo Gabriel (U202210577)
+- Templadera Panoca Gerard Zair (U202214407)
+- Ccorimanya Laulate Daniel Alexis (U202224115)
+- Acosta Elera Abraam Bernabe (U202219199)
 
 
-- Uso
+-Uso
 
 PillControl simplifica el seguimiento de medicamentos con características destacadas:
 
